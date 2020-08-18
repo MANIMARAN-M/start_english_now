@@ -373,7 +373,7 @@ body{
     border-radius: 50%;
     background-color: #FEC868;
 }
-.buy-head .element-4{
+.buy-head .element-4{ 
     position: absolute;
     top: -10px;
     left: 60px;
@@ -487,7 +487,7 @@ body{
 }
 @media (max-width: 785px){
     .contact-content .contact-num{
-        font-size: 14px;
+        font-size: 16px;
     }
     #contact .contact-image{
         display: none;
