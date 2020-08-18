@@ -623,7 +623,18 @@ body{
 #footer-map p{
     line-height: 12px;
     font-size: 12px;
-
+}
+#footer-map-1 h1{
+    font-size: 1em;
+    font-weight: bold;
+    font-family: 'Neuton',sans-serif;
+}
+#footer-map-1 p:nth-child(2){
+    margin-top: 30px;
+}
+#footer-map-1 p{
+    line-height: 12px;
+    font-size: 12px;
 }
 #footer-blog p{
     line-height: 12px;
@@ -665,6 +676,15 @@ body{
     }
     #footer-end #powerd-by p{
         font-size: 7px;
+    }
+    #footer-map-1 h1{
+        margin-top: 20px;
+    }
+    #footer-map-1 p{
+        line-height: 5px;
+    }
+    #footer-map-1 p:nth-child(2){
+        margin-top: 20px;
     }
 }
 
