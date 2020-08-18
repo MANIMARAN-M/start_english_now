@@ -466,7 +466,7 @@ body{
     font-size: 35px;
 }
 .contact-content p:nth-child(2){
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif; 
 }
 .contact-content .contact-para{
     font-family: 'Poppins', sans-serif;
