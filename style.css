@@ -109,10 +109,11 @@ body{
     font-size: 40px;
     font-family: 'Neuton', serif;
     line-height: 40px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 .home-blog{
     color: #939393;
+    margin-top: 20px;
 }
 .home-content p{
     font-size: 12px;
@@ -133,11 +134,11 @@ body{
     width: 800px;
 }
 @media (max-width: 785px){
-    .home-content h1:nth-child(2){
+    /* .home-content h1:nth-child(2){
         font-size: 1.5em;
         letter-spacing: 0;
         line-height: 30px;
-    }
+    } */
 }
 
 /* ---------------------------------------- Rating -------------------------------------- */
@@ -444,11 +445,6 @@ body{
     padding: 5px 10px;   
     font-size: 12px;
 }
-/* @media (max-width: 785){
-    .buy{
-        display: flex;
-    }
-} */
 
 /* ---------------------------------------- Contact -------------------------------------- */
 
